@@ -1,0 +1,18 @@
+# Python bytecode cache (never upload these!)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and Editor settings (Specific to your local computer)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# Optional: If you want your personal tasks data to stay private
+# tasks.json
